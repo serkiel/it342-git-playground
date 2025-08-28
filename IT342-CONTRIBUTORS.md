@@ -12,4 +12,5 @@
 - Abella, Franchesca Louise (**@ChescaAbella**)
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
-- Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
+- Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**) 
+- Melocoton, Jeric Kiel (**@serkiel**)
