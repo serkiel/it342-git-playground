@@ -12,5 +12,12 @@
 - Abella, Franchesca Louise (**@ChescaAbella**)
 - Go, Felix Christian (**@Lumity-13**)
 - Lo, Joshua Noel (**juswangs12**)
+<<<<<<< HEAD
 - Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**) 
 - Melocoton, Jeric Kiel (**@serkiel**)
+=======
+- Oswa, Yusuf Bin Mohammad Ali (**@YBMACO**)
+- Jumawan, Clyde Nixon (**@klaydgg12**)
+- Caranzo, Mac Howard (**@Howardness**)
+- Melocoton, Jeric Kiel (**@serkiel**)
+>>>>>>> 5be41a1 (fix: updated missing name.)
